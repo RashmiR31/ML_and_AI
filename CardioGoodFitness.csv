@@ -1,6 +1,6 @@
 Product,Age,Gender,Education,MaritalStatus,Usage,Fitness,Income,Miles
 TM195,18,Male,14,Single,3,4,29562,112
-TM195,19,Male,15,Single,2,3,31836,75
+TM195,19,Male,15,Single,2,3,31736,75
 TM195,19,Female,14,Partnered,4,3,30699,66
 TM195,19,Male,12,Single,3,3,32973,85
 TM195,20,Male,13,Partnered,4,2,35247,47
